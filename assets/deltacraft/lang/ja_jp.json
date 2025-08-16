@@ -1,6 +1,6 @@
 {
-    "block.deltacraft.asetsu": "あーせつウイスキー",
-    "block.deltacraft.ponbeer": "ぽんビール",
-    "item.deltacraft.thanks": "感謝状",
+    "deltacraft.block.asetsu": "あーせつウイスキー",
+    "deltacraft.block.ponbeer": "ぽんビール",
+    "deltacraft.item.thanks": "感謝状",
     "deltacraft.item.thanks.desc": "右クリックで使用すると、\n金硬貨10枚以下のランダムな金額が\n報酬として手に入ります。"
 }
